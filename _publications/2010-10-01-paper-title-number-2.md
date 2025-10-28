@@ -8,7 +8,7 @@ date: 2021-01-01
 venue: 'Nature Materials'
 
 paperurl: 'https://www.nature.com/articles/s41563-020-0769-6'
-citation: 'Shin et al., &quot;Monolithic digital patterning of polydimethylsiloxane with successive laser pyrolysis&quot; <i>Nat. Mater</i>. 20. <b>2021<b/>.'
+citation: 'Shin <i>et al<i/>., &quot;Monolithic digital patterning of polydimethylsiloxane with successive laser pyrolysis,&quot; <i>Nat. Mater.</i>, 20, <b>2021<b/>.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
