@@ -8,12 +8,13 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+  - title: "Research"
+    url: "{{ site.baseurl }}/research/"
+  
   - title: "Publications"
     url: "{{ site.baseurl }}/publications/"
-
-  - title: "Talks"
-    url: "{{ site.baseurl }}/talks/"    
-
+    
   - title: "Teaching"
     url: "{{ site.baseurl }}/teaching/"    
     
