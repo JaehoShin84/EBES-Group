@@ -13,7 +13,7 @@ main:
     url: "{{ site.baseurl }}/research/"
   
   - title: "Publications"
-    url: "{{ site.baseurl }}/publications/"
+    url: "{{ '/publications/' | relative_url }}"
     
   - title: "Team"
     url: "{{ site.baseurl }}/team/"    
