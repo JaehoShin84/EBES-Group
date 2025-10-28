@@ -10,25 +10,25 @@
 main:
 
   - title: "Research"
-    url: "{{ site.baseurl }}/research/"
+    url: /research/
   
   - title: "Publications"
     url: /publications/
     
   - title: "Team"
-    url: "{{ site.baseurl }}/team/"    
+    url: /team/    
     
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: "{{ site.baseurl }}/year-archive/"
+    url: /year-archive/
     
   - title: "CV"
-    url: "{{ site.baseurl }}/cv/"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
   - title: "Guide"
-    url: "{{ site.baseurl }}/markdown/"
+    url: /markdown/
