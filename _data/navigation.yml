@@ -19,7 +19,7 @@ main:
     url: "{{ site.baseurl }}/team/"    
     
   - title: "Portfolio"
-    url: "{{ site.baseurl }}/portfolio/"
+    url: /portfolio/
         
   - title: "Blog Posts"
     url: "{{ site.baseurl }}/year-archive/"
